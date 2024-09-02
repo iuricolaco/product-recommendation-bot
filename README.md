@@ -1,6 +1,3 @@
-Aqui está o README ajustado para que você possa simplesmente copiar e colar no GitHub:
-
----
 
 # **AI Product Recommendation Bot**
 
@@ -73,5 +70,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## **Contato**
 
 Se você tiver alguma dúvida, entre em contato pelo e-mail `iuricolaco@exemplo.com`.
-
----
